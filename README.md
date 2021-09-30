@@ -1,2 +1,2 @@
 # CV
-My Curriculum Vitae (cum resume).
+My Curriculum Vitae
